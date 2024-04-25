@@ -2,7 +2,7 @@
 
 Mostly I prefer [GitLab]([url](https://gitlab.com/vitaly-zdanevich)) - because it free and open source (GitHub is not).
 
-I love to contribute in Wikipedia (English, Russian, Belarussian), [Wikimedia Commons]([url](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Vitaly_Zdanevich&ilshowall=1)) - old documents, software, games, cities.
+I love to contribute in Wikipedia (English, Russian, Belarussian), [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Vitaly_Zdanevich&ilshowall=1) - old documents, software, games, cities.
 
 <!--
 **vitaly-zdanevich/vitaly-zdanevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
