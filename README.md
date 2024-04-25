@@ -6,6 +6,10 @@ I spent a few years developing them - frontend and backend, one of them - [Intel
 
 See my lecture about browser extentions (in Russian) https://youtu.be/ybyAbTA7_Tw
 
+## Gentoo Linux
+
+I love Gentoo and did [a few dozen packages](https://repology.org/maintainer/zdanevich.vitaly%40ya.ru) for it.
+
 
 ## Wikimedia
 
