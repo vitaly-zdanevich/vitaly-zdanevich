@@ -52,7 +52,7 @@ https://t.me/vitaly_zdanevich
 
 ## Discord
 
-vitaly_zdanevich
+https://discordapp.com/users/402754707937820672
 
 ## Google Calender booking page
 
