@@ -46,6 +46,10 @@ Mostly old documents, about software, games, cities, see [all Wikipedia contribu
 
 I have some publications, in Russian https://habr.com/en/users/zdanevich-vitaly/
 
+## Telegram
+
+t.me/vitaly_zdanevich
+
 <!--
 **vitaly-zdanevich/vitaly-zdanevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
