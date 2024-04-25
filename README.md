@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Wikimedia
+
 Mostly I prefer [GitLab]([url](https://gitlab.com/vitaly-zdanevich)) - because it free and open source (GitHub is not).
 
 I love to contribute in Wikipedia:
@@ -24,6 +26,12 @@ https://xtools.wmcloud.org/ec/www.wikidata.org/Vitaly%20Zdanevich
 and my lecture in Russian https://www.youtube.com/watch?v=hY-1jcBxbbM
 
 Mostly old documents, about software, games, cities, see [all Wikipedia contributions on one page](https://guc.toolforge.org/?by=date&user=Vitaly+Zdanevich).
+
+## Browser extensions
+
+I spent a few years developing them - frontend and backend, one of them - [Intelligent Speaker](https://intelligent-speaker.com/), was [rewarded by Google as one of the best browser extension in 2020](https://devby.io/news/intelligent-speaker-text-to-speech).
+
+See my lecture about browser extentions (in Russian) https://youtu.be/ybyAbTA7_Tw
 
 <!--
 **vitaly-zdanevich/vitaly-zdanevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
