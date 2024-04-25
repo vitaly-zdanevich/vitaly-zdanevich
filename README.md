@@ -52,6 +52,8 @@ https://t.me/vitaly_zdanevich
 
 ## Discord
 
+ID to search: vitaly_zdanevich
+
 https://discordapp.com/users/402754707937820672
 
 ## Google Calender booking page
