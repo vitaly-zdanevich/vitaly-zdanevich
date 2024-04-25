@@ -19,8 +19,9 @@ Wikimedia Commons:
 https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Vitaly_Zdanevich&ilshowall=1  
 https://xtools.wmcloud.org/ec/commons.wikimedia.org/Vitaly%20Zdanevich
 
-Wikidata:
-https://xtools.wmcloud.org/ec/www.wikidata.org/Vitaly%20Zdanevich
+Wikidata:  
+https://xtools.wmcloud.org/ec/www.wikidata.org/Vitaly%20Zdanevich  
+and my lecture in Russian https://www.youtube.com/watch?v=hY-1jcBxbbM
 
 Mostly old documents, about software, games, cities, see [all Wikipedia contributions on one page](https://guc.toolforge.org/?by=date&user=Vitaly+Zdanevich).
 
