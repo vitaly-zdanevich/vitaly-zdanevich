@@ -50,6 +50,10 @@ I have some publications, in Russian https://habr.com/en/users/zdanevich-vitaly/
 
 https://t.me/vitaly_zdanevich
 
+## Google Calender booking page
+
+https://calendar.app.google/WX5N9fPsDaJxEEzX6
+
 <!--
 **vitaly-zdanevich/vitaly-zdanevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
