@@ -38,6 +38,10 @@ and my lecture in Russian https://www.youtube.com/watch?v=hY-1jcBxbbM
 
 Mostly old documents, about software, games, cities, see [all Wikipedia contributions on one page](https://guc.toolforge.org/?by=date&user=Vitaly+Zdanevich).
 
+## Habr
+
+I have some publications, in Russian https://habr.com/en/users/zdanevich-vitaly/
+
 <!--
 **vitaly-zdanevich/vitaly-zdanevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
