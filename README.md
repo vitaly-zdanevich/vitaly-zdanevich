@@ -41,7 +41,7 @@ Wikidata:
 https://xtools.wmcloud.org/ec/www.wikidata.org/Vitaly%20Zdanevich  
 and my lecture in Russian https://www.youtube.com/watch?v=hY-1jcBxbbM
 
-Mostly old documents, about software, games, cities, see [all Wikipedia contributions on one page](https://guc.toolforge.org/?by=date&user=Vitaly+Zdanevich).
+Mostly old documents, about software, games, cities, see [all Wikimedia contributions on one page](https://guc.toolforge.org/?by=date&user=Vitaly+Zdanevich).
 
 ## Habr
 
