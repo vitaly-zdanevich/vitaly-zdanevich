@@ -60,6 +60,11 @@ https://discordapp.com/users/402754707937820672
 
 https://calendar.app.google/WX5N9fPsDaJxEEzX6
 
+## Hobby
+
+I love Vim, [this is my repo with configs](https://gitlab.com/vitaly-zdanevich-configs/vim).
+
+
 <!--
 **vitaly-zdanevich/vitaly-zdanevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
