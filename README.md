@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Mostly I prefer [GitLab](https://gitlab.com/vitaly-zdanevich) - because it free and open source (GitHub is not).
+
 ## Browser extensions
 
 I spent a few years developing them - frontend and backend, one of them - [Intelligent Speaker](https://intelligent-speaker.com/), was [rewarded by Google as one of the best browser extension in 2020](https://devby.io/news/intelligent-speaker-text-to-speech).
@@ -16,8 +18,6 @@ I did a few https://userstyles.world/user/vitaly-zdanevich
 
 
 ## Wikimedia
-
-Mostly I prefer [GitLab]([url](https://gitlab.com/vitaly-zdanevich)) - because it free and open source (GitHub is not).
 
 I love to contribute in Wikipedia:
 English:  
