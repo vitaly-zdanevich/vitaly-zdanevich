@@ -51,7 +51,9 @@ I have some publications, in Russian https://habr.com/en/users/zdanevich-vitaly/
 
 ## Telegram
 
-https://t.me/vitaly_zdanevich
+To message me: https://t.me/vitaly_zdanevich
+
+My channel: https://t.me/vitaly_zdanevich_chan
 
 ## Discord
 
