@@ -12,7 +12,7 @@ See my lecture about browser extentions (in Russian) https://youtu.be/ybyAbTA7_T
 
 I love Gentoo and did [a few dozen packages](https://repology.org/maintainer/zdanevich.vitaly%40ya.ru) for it.
 
-Also [Gentoo Wiki contributions](https://wiki.gentoo.org/index.php?title=Special:Contributions/Vitaly-zdanevich&offset=&limit=500&target=Vitaly-zdanevich).
+Also [Gentoo Wiki contributions](https://wiki.gentoo.org/index.php?title=Special:Contributions/Vitaly-zdanevich&offset=&limit=500&target=Vitaly-zdanevich), maybe can help you with a ebuild.
 
 ## Userstyles
 
