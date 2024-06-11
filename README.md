@@ -75,8 +75,6 @@ I love Vim, [this is my repo with configs](https://gitlab.com/vitaly-zdanevich-c
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitaly-zdanevich&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitaly-zdanevich&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitaly-zdanevich&theme=dark&)
-
 
 
 <!--
