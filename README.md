@@ -72,6 +72,12 @@ https://calendar.app.google/WX5N9fPsDaJxEEzX6
 
 I love Vim, [this is my repo with configs](https://gitlab.com/vitaly-zdanevich-configs/vim).
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitaly-zdanevich&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitaly-zdanevich&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitaly-zdanevich&theme=dark&)
+
+
 
 <!--
 **vitaly-zdanevich/vitaly-zdanevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
