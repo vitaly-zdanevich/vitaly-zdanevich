@@ -64,10 +64,6 @@ ID to search: vitaly_zdanevich
 
 https://discordapp.com/users/402754707937820672
 
-## Google Calender booking page
-
-https://calendar.app.google/WX5N9fPsDaJxEEzX6
-
 ## Hobby
 
 I love Vim, [this is my repo with configs](https://gitlab.com/vitaly-zdanevich-configs/vim).
