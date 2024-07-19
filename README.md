@@ -3,7 +3,7 @@
 ![2024-05-23 20-04-31](https://github.com/vitaly-zdanevich/vitaly-zdanevich/assets/3514015/436a1927-5711-484f-a2ec-5c606667d06e)
 
 
-Mostly I prefer [GitLab](https://gitlab.com/vitaly-zdanevich) - because it free and open source (GitHub is [not]([url](https://sfconservancy.org/GiveUpGitHub/))).
+Mostly I prefer [GitLab](https://gitlab.com/vitaly-zdanevich) - because it free and open source (GitHub is [not](https://sfconservancy.org/GiveUpGitHub/).
 
 ## Browser extensions
 
