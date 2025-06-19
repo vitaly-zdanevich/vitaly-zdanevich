@@ -48,7 +48,7 @@ and my lecture in Russian https://www.youtube.com/watch?v=hY-1jcBxbbM
 
 Mostly old documents, about software, games, cities, see [all Wikimedia contributions on one page](https://guc.toolforge.org/?by=date&user=Vitaly+Zdanevich).
 
-2024 lecture about userscripts https://www.youtube.com/watch?v=ezrH_uCGZNU
+2024 lecture about userscripts on Wikimedia CEE in Istanbul https://www.youtube.com/watch?v=ezrH_uCGZNU
 
 ## Habr
 
