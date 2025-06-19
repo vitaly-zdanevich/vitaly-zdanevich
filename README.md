@@ -48,6 +48,8 @@ and my lecture in Russian https://www.youtube.com/watch?v=hY-1jcBxbbM
 
 Mostly old documents, about software, games, cities, see [all Wikimedia contributions on one page](https://guc.toolforge.org/?by=date&user=Vitaly+Zdanevich).
 
+2024 lecture about userscripts https://www.youtube.com/watch?v=ezrH_uCGZNU
+
 ## Habr
 
 I have some publications, in Russian https://habr.com/en/users/zdanevich-vitaly/
