@@ -64,6 +64,8 @@ ID to search: vitaly_zdanevich
 
 https://discordapp.com/users/402754707937820672
 
+All my contacts here, with ability to email me https://about.me/zdanevich
+
 ## Hobby
 
 I love Vim, [this is my repo with configs](https://gitlab.com/vitaly-zdanevich-configs/vim).
