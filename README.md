@@ -2,6 +2,7 @@
 
 ![2024-05-23 20-04-31](https://github.com/vitaly-zdanevich/vitaly-zdanevich/assets/3514015/436a1927-5711-484f-a2ec-5c606667d06e)
 
+On the day job, my main focus are [Golang](https://github.com/golang/go/pulls?q=is%3Apr+author%3Avitaly-zdanevich+is%3Aclosed) and AWS, see my CV https://www.linkedin.com/in/zdanevich
 
 Mostly I prefer [GitLab](https://gitlab.com/vitaly-zdanevich) - because it free and open source (GitHub is [not](https://sfconservancy.org/GiveUpGitHub/)).
 
