@@ -13,7 +13,7 @@ See my lecture about browser extentions (in Russian) https://youtu.be/ybyAbTA7_T
 
 ## Gentoo Linux
 
-I love Gentoo and did [a few dozen packages](https://repology.org/maintainer/zdanevich.vitaly%40ya.ru) for it, maybe can help you with an ebuild.
+Created [a dozens of packages]([https://repology.org/maintainer/zdanevich.vitaly%40ya.ru](https://github.com/gentoo/guru/commits?author=vitaly-zdanevich)) for it, maybe can help you with an ebuild.
 
 Also [Gentoo Wiki contributions](https://wiki.gentoo.org/index.php?title=Special:Contributions/Vitaly-zdanevich&offset=&limit=500&target=Vitaly-zdanevich).
 
