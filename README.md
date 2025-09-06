@@ -73,6 +73,8 @@ All my contacts here, with ability to email me https://about.me/zdanevich
 
 I love Vim, [this is my repo with configs](https://gitlab.com/vitaly-zdanevich-configs/vim).
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitaly-zdanevich&show_icons=true&theme=highcontrast)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitaly-zdanevich&theme=dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitaly-zdanevich&theme=dark)
