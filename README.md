@@ -4,7 +4,7 @@
 
 On the day job, my main focus are [Golang](https://github.com/golang/go/pulls?q=is%3Apr+author%3Avitaly-zdanevich+is%3Aclosed), Python, AWS, see my CV https://www.linkedin.com/in/zdanevich
 
-Mostly I prefer [GitLab](https://gitlab.com/vitaly-zdanevich) - because it free and open source (GitHub is [not](https://sfconservancy.org/GiveUpGitHub/)).
+Mostly I prefer [GitLab](https://gitlab.com/vitaly-zdanevich) - because it free and open source (GitHub is [not](https://sfconservancy.org/GiveUpGitHub/)). But in May 2026 I found that GitLab CI is not enough for my hobby projects ([free 400 minutes per month](https://docs.gitlab.com/ci/pipelines/compute_minutes/)) - so looks like I will create new repositories on [GitHub](https://docs.github.com/en/billing/concepts/product-billing/github-actions) again.
 
 ## Browser extensions
 
